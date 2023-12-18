@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { store } from './redux/store'
 import { Provider } from 'react-redux'
 
+//TEST PUSH FROM PC
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
